@@ -18,7 +18,7 @@ I independently designed, calculated layout proportions, and developed the entir
 # Key Takeaways
 Building out the bottom player section on my own was an incredible learning experience. It pushed me past simply following along with code to active problem-solving—forcing me to figure out how properties interact in the wild, debug layout bugs, and master structural alignment rules in CSS.
 
-## 🎯 What's Next?
+# What's Next?
 *   Introduce JavaScript to make the playback tracking bar dynamic.
 *   Add audio element functionality so users can play/pause actual short sample tracks.
 *   Incorporate active state DOM manipulation when changing tracks or selecting items from the library sidebar.
